@@ -1,6 +1,6 @@
 # Diablo 1 Trainer
 
-![The trainer in action](https://github.com/danjaaron/Diablo1-Trainer/blob/master/diablo-proof.PNG)
+![The trainer in action](https://github.com/danjaaron/Diablo1-Trainer/blob/main/diablo-proof.PNG)
 
 This repository contains the source code for a cheat trainer for Diablo 1 (GOG).
 
